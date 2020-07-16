@@ -2,7 +2,7 @@
 A repo for figuring out how well a gps chips operates as a time server, with some statistics from different configurations and plots 
 
 ### chrony-client
-default configuration file (stats/logging on). 
+default configuration file (stats/logging on).  
 default file (uses the -f flag and explicitly sets the config file).
 
 ### gps-pps
